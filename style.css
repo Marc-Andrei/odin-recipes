@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+}
+h1 {
+    background-color:green;
+    color:white;
+    text-align:center;
+    font-size:40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px 500px 100px;
+
+}
+
+ul {
+    width:200px;
+    margin: 100px auto;
+    list-style:none;
+    background-color: yellowgreen;
+    padding:60px;
+
+}
+
+li {
+    width: 100px;
+    margin: 60px auto;
+    background-color: palevioletred; 
+    border: 10px groove cadetblue;
+}
